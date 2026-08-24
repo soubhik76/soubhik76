@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Soubhik Chakraborty
 - 👀 I’m interested in GitHub
-- 🌱 I’m currently learning Electronics and Communication Engineering
-- 💞️ I’m looking to collaborate on easy projects
 - 📫 How to reach me soubhikchakraborty76@gmail.com
 
 <!---
