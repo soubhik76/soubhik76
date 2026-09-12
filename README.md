@@ -6,7 +6,7 @@ Welcome to my professional portfolio! This is a modern, fully responsive portfol
 
 ### 🚀 Quick Links
 
-- **Portfolio:** [View Live](https://your-portfolio-domain.com)
+- **Portfolio:** [View Live](https://soubhik76.github.io/soubhik76/)
 - **GitHub:** [@soubhik76](https://github.com/soubhik76)
 - **Email:** 📧 [soubhikchakraborty76@gmail.com](mailto:soubhikchakraborty76@gmail.com)
 

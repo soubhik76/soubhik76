@@ -12,18 +12,26 @@ Your portfolio is now configured for automatic deployment to GitHub Pages!
 
 ### 🚀 Enable GitHub Pages:
 
-1. Go to your repository: https://github.com/soubhik76/soubhik76
-2. Click **Settings** → **Pages**
-3. Under "Build and deployment":
-   - Source: Select **GitHub Actions**
-   - (The workflow will automatically deploy when you push)
+1. Go to https://github.com/soubhik76/soubhik76/settings/pages
+2. Under "Build and deployment":
+   - Source: **Deploy from a branch**
+   - Branch: **gh-pages** / **(root)**
+   - Click **Save**
+
+The `gh-pages` branch is created and kept up to date automatically by the
+deploy workflow (`peaceiris/actions-gh-pages`), so "GitHub Actions" is NOT
+the right source setting for this setup.
 
 ### 📝 Your Portfolio URLs:
 
 **Main Portfolio URL:**
 ```
-https://soubhik76.github.io/
+https://soubhik76.github.io/soubhik76/
 ```
+
+Note: this is a *project* site, so the URL includes the repo name. A bare
+`https://soubhik76.github.io/` would require a repo literally named
+`soubhik76.github.io`.
 
 **GitHub Repository:**
 ```
@@ -40,7 +48,7 @@ https://github.com/soubhik76/soubhik76
 ### 📱 View Live:
 
 1. Open Chrome (or any browser)
-2. Navigate to: `https://soubhik76.github.io/`
+2. Navigate to: `https://soubhik76.github.io/soubhik76/`
 3. Your portfolio will be live!
 
 ### ⚙️ Important Notes:
